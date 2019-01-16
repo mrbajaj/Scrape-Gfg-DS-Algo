@@ -1,3 +1,3 @@
-* Useful to feth all important Data Structures and Algorithm problems list (topic wise) list from Geeks for geeks.
+* Useful to fetch important topic wise Data Structures and Algorithm problems list from Geeks for geeks.
 
 
